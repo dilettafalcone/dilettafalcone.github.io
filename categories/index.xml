@@ -6,8 +6,17 @@
     <description>Recent content in Categories on Diletta Falcone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
-    <managingEditor>info@dilettafalcone.it (Diletta Falcone)</managingEditor>
-    <webMaster>info@dilettafalcone.it (Diletta Falcone)</webMaster>
+    <managingEditor>ambulatorio@dilettafalcone.it (Diletta Falcone)</managingEditor>
+    <webMaster>ambulatorio@dilettafalcone.it (Diletta Falcone)</webMaster>
+    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.dilettafalcone.it/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alimentazione</title>
+      <link>https://www.dilettafalcone.it/categories/alimentazione/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate><author>ambulatorio@dilettafalcone.it (Diletta Falcone)</author>
+      <guid>https://www.dilettafalcone.it/categories/alimentazione/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
   </channel>
 </rss>

@@ -6,163 +6,63 @@
     <description>Recent content in Css on Diletta Falcone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
-    <managingEditor>info@dilettafalcone.it (Diletta Falcone)</managingEditor>
-    <webMaster>info@dilettafalcone.it (Diletta Falcone)</webMaster>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <managingEditor>ambulatorio@dilettafalcone.it (Diletta Falcone)</managingEditor>
+    <webMaster>ambulatorio@dilettafalcone.it (Diletta Falcone)</webMaster>
+    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/blog/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>info@dilettafalcone.it (Diletta Falcone)</author>
-      <guid>http://localhost:1313/blog/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
-<h2 id="headings">Headings</h2>
-<p>The following HTML <code>&lt;h1&gt;</code>—<code>&lt;h6&gt;</code> elements represent six levels of section headings. <code>&lt;h1&gt;</code> is the highest section level while <code>&lt;h6&gt;</code> is the lowest.</p>
-<h1 id="h1">H1</h1>
-<h2 id="h2">H2</h2>
-<h3 id="h3">H3</h3>
-<h4 id="h4">H4</h4>
-<h5 id="h5">H5</h5>
-<h6 id="h6">H6</h6>
-<h2 id="paragraph">Paragraph</h2>
-<p>Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.</p>
-<p>Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.</p>
-<h2 id="blockquotes">Blockquotes</h2>
-<p>The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a <code>footer</code> or <code>cite</code> element, and optionally with in-line changes such as annotations and abbreviations.</p>
-<h4 id="blockquote-without-attribution">Blockquote without attribution</h4>
-<blockquote>
-<p>Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-<strong>Note</strong> that you can use <em>Markdown syntax</em> within a blockquote.</p>
-</blockquote>
-<h4 id="blockquote-with-attribution">Blockquote with attribution</h4>
-<blockquote>
-<p>Don&rsquo;t communicate by sharing memory, share memory by communicating.<!-- raw HTML omitted -->
-— <!-- raw HTML omitted -->Rob Pike<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><!-- raw HTML omitted --></p>
-</blockquote>
-<h2 id="tables">Tables</h2>
-<p>Tables aren&rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.</p>
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Age</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Bob</td>
-<td>27</td>
-</tr>
-<tr>
-<td>Alice</td>
-<td>23</td>
-</tr>
-</tbody>
-</table>
-<h4 id="inline-markdown-within-tables">Inline Markdown within tables</h4>
-<table>
-<thead>
-<tr>
-<th>Italics</th>
-<th>Bold</th>
-<th>Code</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><em>italics</em></td>
-<td><strong>bold</strong></td>
-<td><code>code</code></td>
-</tr>
-</tbody>
-</table>
-<h2 id="code-blocks">Code Blocks</h2>
-<h4 id="code-block-with-backticks">Code block with backticks</h4>
-
-
-
-
-
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="ln"> 1</span><span class="cl"><span class="cp">&lt;!doctype html&gt;</span>
-</span></span><span class="line"><span class="ln"> 2</span><span class="cl"><span class="p">&lt;</span><span class="nt">html</span> <span class="na">lang</span><span class="o">=</span><span class="s">&#34;en&#34;</span><span class="p">&gt;</span>
-</span></span><span class="line"><span class="ln"> 3</span><span class="cl"><span class="p">&lt;</span><span class="nt">head</span><span class="p">&gt;</span>
-</span></span><span class="line"><span class="ln"> 4</span><span class="cl">  <span class="p">&lt;</span><span class="nt">meta</span> <span class="na">charset</span><span class="o">=</span><span class="s">&#34;utf-8&#34;</span><span class="p">&gt;</span>
-</span></span><span class="line"><span class="ln"> 5</span><span class="cl">  <span class="p">&lt;</span><span class="nt">title</span><span class="p">&gt;</span>Example HTML5 Document<span class="p">&lt;/</span><span class="nt">title</span><span class="p">&gt;</span>
-</span></span><span class="line"><span class="ln"> 6</span><span class="cl"><span class="p">&lt;/</span><span class="nt">head</span><span class="p">&gt;</span>
-</span></span><span class="line"><span class="ln"> 7</span><span class="cl"><span class="p">&lt;</span><span class="nt">body</span><span class="p">&gt;</span>
-</span></span><span class="line"><span class="ln"> 8</span><span class="cl">  <span class="p">&lt;</span><span class="nt">p</span><span class="p">&gt;</span>Test<span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
-</span></span><span class="line"><span class="ln"> 9</span><span class="cl"><span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
-</span></span><span class="line"><span class="ln">10</span><span class="cl"><span class="p">&lt;/</span><span class="nt">html</span><span class="p">&gt;</span></span></span></code></pre></div><h4 id="code-block-indented-with-four-spaces">Code block indented with four spaces</h4>
-<pre><code>&lt;!doctype html&gt;
-&lt;html lang=&quot;en&quot;&gt;
-&lt;head&gt;
-  &lt;meta charset=&quot;utf-8&quot;&gt;
-  &lt;title&gt;Example HTML5 Document&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-  &lt;p&gt;Test&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-</code></pre>
-<h4 id="code-block-with-hugos-internal-highlight-shortcode">Code block with Hugo&rsquo;s internal highlight shortcode</h4>
-
-
-
-
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="ln"> 1</span><span class="cl"><span class="cp">&lt;!doctype html&gt;</span>
-</span></span><span class="line"><span class="ln"> 2</span><span class="cl"><span class="p">&lt;</span><span class="nt">html</span> <span class="na">lang</span><span class="o">=</span><span class="s">&#34;en&#34;</span><span class="p">&gt;</span>
-</span></span><span class="line"><span class="ln"> 3</span><span class="cl"><span class="p">&lt;</span><span class="nt">head</span><span class="p">&gt;</span>
-</span></span><span class="line"><span class="ln"> 4</span><span class="cl">  <span class="p">&lt;</span><span class="nt">meta</span> <span class="na">charset</span><span class="o">=</span><span class="s">&#34;utf-8&#34;</span><span class="p">&gt;</span>
-</span></span><span class="line"><span class="ln"> 5</span><span class="cl">  <span class="p">&lt;</span><span class="nt">title</span><span class="p">&gt;</span>Example HTML5 Document<span class="p">&lt;/</span><span class="nt">title</span><span class="p">&gt;</span>
-</span></span><span class="line"><span class="ln"> 6</span><span class="cl"><span class="p">&lt;/</span><span class="nt">head</span><span class="p">&gt;</span>
-</span></span><span class="line"><span class="ln"> 7</span><span class="cl"><span class="p">&lt;</span><span class="nt">body</span><span class="p">&gt;</span>
-</span></span><span class="line"><span class="ln"> 8</span><span class="cl">  <span class="p">&lt;</span><span class="nt">p</span><span class="p">&gt;</span>Test<span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
-</span></span><span class="line"><span class="ln"> 9</span><span class="cl"><span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
-</span></span><span class="line"><span class="ln">10</span><span class="cl"><span class="p">&lt;/</span><span class="nt">html</span><span class="p">&gt;</span></span></span></code></pre></div>
-<h2 id="list-types">List Types</h2>
-<h4 id="ordered-list">Ordered List</h4>
-<ol>
-<li>First item</li>
-<li>Second item</li>
-<li>Third item</li>
-</ol>
-<h4 id="unordered-list">Unordered List</h4>
+      <title>Alimenti ricchi di ferro</title>
+      <link>http://localhost:1313/blog/alimenti-ricchi-di-ferro/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate><author>ambulatorio@dilettafalcone.it (Diletta Falcone)</author>
+      <guid>http://localhost:1313/blog/alimenti-ricchi-di-ferro/</guid>
+      <description>🌰 Semi oleosi e derivati Semi di sesamo (≈ 14-15 mg/100 g) Semi di zucca (≈ 8-9 mg/100 g) Tahina (crema di sesamo) (≈ 9-10 mg/100 g) Semi di chia (≈ 7-8 mg/100 g) 🌾 Cereali (integrali, pseudocereali) e derivati Amaranto (≈ 7-8 mg/100 g crudo) Fiocchi d’avena (≈ 4-5 mg/100 g crudi) Quinoa (≈ 4 mg/100 g cruda) Farina di teff (≈ 6-8 mg/100 g cruda) 📌 Nota: La cottura riduce il contenuto di ferro per 100 g perché il peso aumenta con l’acqua, ma il contenuto totale nella porzione resta invariato.</description>
+      <content:encoded><![CDATA[<h2 id="-semi-oleosi-e-derivati">🌰 <strong>Semi oleosi e derivati</strong></h2>
 <ul>
-<li>List item</li>
-<li>Another item</li>
-<li>And another item</li>
+<li><strong>Semi di sesamo</strong> (≈ 14-15 mg/100 g)</li>
+<li><strong>Semi di zucca</strong> (≈ 8-9 mg/100 g)</li>
+<li><strong>Tahina (crema di sesamo)</strong> (≈ 9-10 mg/100 g)</li>
+<li><strong>Semi di chia</strong> (≈ 7-8 mg/100 g)</li>
 </ul>
-<h4 id="nested-list">Nested list</h4>
+<h2 id="-cereali-integrali-pseudocereali-e-derivati">🌾 <strong>Cereali (integrali, pseudocereali) e derivati</strong></h2>
 <ul>
-<li>Fruit
+<li><strong>Amaranto</strong> (≈ 7-8 mg/100 g crudo)</li>
+<li><strong>Fiocchi d’avena</strong> (≈ 4-5 mg/100 g crudi)</li>
+<li><strong>Quinoa</strong> (≈ 4 mg/100 g cruda)</li>
+<li><strong>Farina di teff</strong> (≈ 6-8 mg/100 g cruda)</li>
+</ul>
+<p>📌 <strong>Nota</strong>: La cottura riduce il contenuto di ferro per 100 g perché il peso aumenta con l’acqua, ma il contenuto totale nella porzione resta invariato.</p>
+<h2 id="-legumi-e-derivati">🥜 <strong>Legumi e derivati</strong></h2>
 <ul>
-<li>Apple</li>
-<li>Orange</li>
-<li>Banana</li>
+<li><strong>Soia (fagioli di soia cotti)</strong> (≈ 5 mg/100 g)</li>
+<li><strong>Fagioli neri</strong> (≈ 8 mg/100 g secchi, dopo cottura ≈ 2.1-2.5 mg/100 g)</li>
+<li><strong>Lenticchie</strong> (≈ 3-3.5 mg/100 g cotte)</li>
+<li><strong>Ceci</strong> (≈ 2.5-3 mg/100 g cotti)</li>
+<li><strong>Fagioli bianchi</strong> (≈ 3.7 mg/100 g cotti)</li>
+<li><strong>Tofu</strong> (≈ 5 mg/100 g)</li>
+<li><strong>Tempeh</strong> (≈ 2.5-3 mg/100 g)</li>
 </ul>
-</li>
-<li>Dairy
+<h2 id="-frutta-secca-e-frutta-essiccata">🥜 <strong>Frutta secca e frutta essiccata</strong></h2>
 <ul>
-<li>Milk</li>
-<li>Cheese</li>
+<li><strong>Anacardi</strong> (≈ 6-7 mg/100 g)</li>
+<li><strong>Mandorle</strong> (≈ 3.7 mg/100 g)</li>
+<li><strong>Pistacchi</strong> (≈ 3.9 mg/100 g)</li>
+<li><strong>Albicocche secche</strong> (≈ 2.7 mg/100 g)</li>
+<li><strong>Uvetta</strong> (≈ 1.9 mg/100 g)</li>
 </ul>
-</li>
+<h2 id="-verdure-e-ortaggi">🥦 <strong>Verdure e ortaggi</strong></h2>
+<ul>
+<li><strong>Spinaci crudi</strong> (≈ 2.7 mg/100 g)</li>
+<li><strong>Cavolo riccio (kale)</strong> (≈ 1.2-1.5 mg/100 g crudo)</li>
+<li><strong>Bietole</strong> (≈ 1.8 mg/100 g)</li>
+<li><strong>Broccoli</strong> (≈ 0.7-1 mg/100 g)</li>
 </ul>
-<h2 id="other-elements--abbr-sub-sup-kbd-mark">Other Elements — abbr, sub, sup, kbd, mark</h2>
-<p><!-- raw HTML omitted -->GIF<!-- raw HTML omitted --> is a bitmap image format.</p>
-<p>H<!-- raw HTML omitted -->2<!-- raw HTML omitted -->O</p>
-<p>X<!-- raw HTML omitted -->n<!-- raw HTML omitted --> + Y<!-- raw HTML omitted -->n<!-- raw HTML omitted --> = Z<!-- raw HTML omitted -->n<!-- raw HTML omitted --></p>
-<p>Press <!-- raw HTML omitted --><!-- raw HTML omitted -->CTRL<!-- raw HTML omitted -->+<!-- raw HTML omitted -->ALT<!-- raw HTML omitted -->+<!-- raw HTML omitted -->Delete<!-- raw HTML omitted --><!-- raw HTML omitted --> to end the session.</p>
-<p>Most <!-- raw HTML omitted -->salamanders<!-- raw HTML omitted --> are nocturnal, and hunt for insects, worms, and other small creatures.</p>
-<div class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p>The above quote is excerpted from Rob Pike&rsquo;s <a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">talk</a> during Gopherfest, November 18, 2015.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</div>]]></content:encoded>
+<h2 id="-altri-alimenti-e-note-utili">🌊 <strong>Altri alimenti e note utili</strong></h2>
+<ul>
+<li><strong>Alghe (es. nori, spirulina)</strong>: la spirulina può contenere fino a <strong>28 mg/100 g</strong>, ma la biodisponibilità del ferro è <strong>molto bassa</strong>.</li>
+<li><strong>Cereali fortificati e latti vegetali fortificati</strong>: spesso contengono ferro aggiunto (<strong>4-12 mg per porzione</strong>).</li>
+<li><strong>Vitamina C</strong>: fondamentale per migliorare l’assorbimento del ferro non-eme. Consumare insieme a fonti di <strong>agrumi, kiwi, peperoni crudi</strong>.</li>
+</ul>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

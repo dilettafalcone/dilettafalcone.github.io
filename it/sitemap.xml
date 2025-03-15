@@ -3,14 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.dilettafalcone.it/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="https://www.dilettafalcone.it/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://www.dilettafalcone.it/en/"
                 />
     <xhtml:link
@@ -20,17 +16,33 @@
                 />
   </url><url>
     <loc>https://www.dilettafalcone.it/blog/</loc>
-  </url><url>
-    <loc>https://www.dilettafalcone.it/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.dilettafalcone.it/en/categories/"
-                />
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="https://www.dilettafalcone.it/pt/categories/"
+                href="https://www.dilettafalcone.it/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://www.dilettafalcone.it/blog/"
+                />
+  </url><url>
+    <loc>https://www.dilettafalcone.it/categories/alimentazione/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dilettafalcone.it/blog/alimenti-ricchi-di-ferro/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dilettafalcone.it/blog/alimenti-ricchi-di-vitamina-c/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dilettafalcone.it/categories/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://www.dilettafalcone.it/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -38,21 +50,26 @@
                 href="https://www.dilettafalcone.it/categories/"
                 />
   </url><url>
+    <loc>https://www.dilettafalcone.it/tags/ferro/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dilettafalcone.it/tags/nutrizione/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.dilettafalcone.it/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.dilettafalcone.it/en/tags/"
-                />
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="https://www.dilettafalcone.it/pt/tags/"
+                href="https://www.dilettafalcone.it/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
                 href="https://www.dilettafalcone.it/tags/"
                 />
+  </url><url>
+    <loc>https://www.dilettafalcone.it/tags/vitamina-c/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
   </url>
 </urlset>

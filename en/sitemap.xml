@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.dilettafalcone.it/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://www.dilettafalcone.it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://www.dilettafalcone.it/en/"
+                />
+  </url><url>
+    <loc>https://www.dilettafalcone.it/en/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://www.dilettafalcone.it/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://www.dilettafalcone.it/en/blog/"
+                />
+  </url><url>
     <loc>https://www.dilettafalcone.it/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -11,29 +35,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="https://www.dilettafalcone.it/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://www.dilettafalcone.it/en/categories/"
-                />
-  </url><url>
-    <loc>https://www.dilettafalcone.it/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://www.dilettafalcone.it/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="https://www.dilettafalcone.it/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.dilettafalcone.it/en/"
                 />
   </url><url>
     <loc>https://www.dilettafalcone.it/en/tags/</loc>
@@ -45,11 +47,6 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="https://www.dilettafalcone.it/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://www.dilettafalcone.it/en/tags/"
                 />
   </url>
