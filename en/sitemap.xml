@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.dilettafalcone.it/en/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
@@ -15,6 +16,7 @@
                 />
   </url><url>
     <loc>https://www.dilettafalcone.it/en/blog/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
@@ -27,6 +29,7 @@
                 />
   </url><url>
     <loc>https://www.dilettafalcone.it/en/categories/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
@@ -38,7 +41,30 @@
                 href="https://www.dilettafalcone.it/en/categories/"
                 />
   </url><url>
+    <loc>https://www.dilettafalcone.it/en/categories/diet/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dilettafalcone.it/en/tags/iron/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dilettafalcone.it/en/blog/alimenti-ricchi-di-ferro/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://www.dilettafalcone.it/blog/alimenti-ricchi-di-ferro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://www.dilettafalcone.it/en/blog/alimenti-ricchi-di-ferro/"
+                />
+  </url><url>
+    <loc>https://www.dilettafalcone.it/en/tags/nutrition/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.dilettafalcone.it/en/tags/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"

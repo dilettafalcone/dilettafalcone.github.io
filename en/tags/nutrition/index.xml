@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Diletta Falcone</title>
-    <link>https://www.dilettafalcone.it/en/</link>
-    <description>Recent content on Diletta Falcone</description>
+    <title>Nutrition on Diletta Falcone</title>
+    <link>https://www.dilettafalcone.it/en/tags/nutrition/</link>
+    <description>Recent content in Nutrition on Diletta Falcone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <managingEditor>ambulatorio@dilettafalcone.it (Diletta Falcone)</managingEditor>
     <webMaster>ambulatorio@dilettafalcone.it (Diletta Falcone)</webMaster>
     <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.dilettafalcone.it/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.dilettafalcone.it/en/tags/nutrition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Iron-Rich Foods</title>
       <link>https://www.dilettafalcone.it/en/blog/alimenti-ricchi-di-ferro/</link>
