@@ -2,40 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dilettafalcone.github.io/en/categories/</loc>
+    <loc>https://www.dilettafalcone.it/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://dilettafalcone.github.io/categories/"
+                hreflang="it-IT"
+                href="https://www.dilettafalcone.it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://www.dilettafalcone.it/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dilettafalcone.github.io/en/categories/"
+                href="https://www.dilettafalcone.it/en/categories/"
                 />
   </url><url>
-    <loc>https://dilettafalcone.github.io/en/</loc>
+    <loc>https://www.dilettafalcone.it/en/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://dilettafalcone.github.io/"
+                hreflang="en-GB"
+                href="https://www.dilettafalcone.it/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://www.dilettafalcone.it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dilettafalcone.github.io/en/"
+                href="https://www.dilettafalcone.it/en/"
                 />
   </url><url>
-    <loc>https://dilettafalcone.github.io/en/tags/</loc>
+    <loc>https://www.dilettafalcone.it/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://dilettafalcone.github.io/tags/"
+                hreflang="it-IT"
+                href="https://www.dilettafalcone.it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://www.dilettafalcone.it/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dilettafalcone.github.io/en/tags/"
+                href="https://www.dilettafalcone.it/en/tags/"
                 />
   </url>
 </urlset>
