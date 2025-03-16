@@ -329,12 +329,21 @@ Invia">
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
       color: #e0e0e0;
     }
+    form label {
+      color: #e0e0e0;
+    }
     form input,
     form select,
     form textarea {
       background-color: #3a3a3a;
       border: 1px solid #555;
       color: #e0e0e0;
+    }
+    /* Imposta il colore dei placeholder */
+    form input::placeholder,
+    form textarea::placeholder {
+      color: #e0e0e0;
+      opacity: 1;
     }
     form input:focus,
     form select:focus,
@@ -350,7 +359,7 @@ Invia">
     }
   }
 </style>
-<h3>Prenotazione appuntamento</h2>
+<h3>Prenotazione appuntamento</h3>
 <form action="https://formspree.io/f/xgvavyje" method="POST" id="appForm">
   <label for="nome">Nome e Cognome:</label>
   <input type="text" id="nome" name="nome" required>
@@ -432,8 +441,7 @@ Invia">
 
         // Componiamo il messaggio di conferma con data e orario in grassetto
         const message = `Richiesta di appuntamento inviata correttamente per <strong>${formattedDate}</strong> in orario <strong>${orarioShort}</strong>.<br>
-        Riceverà risposta prima possibile. 
-        Grazie.`;
+        Riceverà risposta prima possibile. Grazie.`;
 
         // Mostra il messaggio al posto del form
         form.innerHTML = `<p>${message}</p>`;
