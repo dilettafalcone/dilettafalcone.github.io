@@ -20,7 +20,11 @@
 	<meta name="generator" content="Hugo 0.133.0">
     <meta charset="utf-8">
     <link rel="shortcut icon" href='https://dilettafalcone.it/favicon.ico' type="image/x-icon">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    
     <title>Diletta Falcone</title>
 
     
@@ -93,6 +97,7 @@
 
     
 </head>
+
 <body><header>
     <div id="header_left">
         <div id="sidebar_btn">
@@ -336,6 +341,27 @@
   @media (prefers-color-scheme: dark) {
     .tree-date {
       color: #aaa;  
+    }
+  }
+   
+  @media (max-width: 600px) {
+    ul {
+      padding-left: 1em;
+    }
+    li {
+      margin-bottom: 0.5em;
+      font-size: 16px;
+      line-height: 1.4;
+    }
+    a {
+      display: block;
+      padding: 8px;
+      border-bottom: 1px solid #eee;
+      text-decoration: none;
+      color: inherit;
+    }
+    a:hover {
+      background-color: rgba(0, 0, 0, 0.05);
     }
   }
 </style>
