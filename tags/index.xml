@@ -1,38 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Diletta Falcone</title>
-    <link>https://www.dilettafalcone.it/tags/</link>
+    <link>https://dilettafalcone.it/tags/</link>
     <description>Recent content in Tags on Diletta Falcone</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it-IT</language>
-    <managingEditor>ambulatorio@dilettafalcone.it (Diletta Falcone)</managingEditor>
-    <webMaster>ambulatorio@dilettafalcone.it (Diletta Falcone)</webMaster>
-    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.dilettafalcone.it/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>it</language><atom:link href="https://dilettafalcone.it/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ferro</title>
-      <link>https://www.dilettafalcone.it/tags/ferro/</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate><author>ambulatorio@dilettafalcone.it (Diletta Falcone)</author>
-      <guid>https://www.dilettafalcone.it/tags/ferro/</guid>
+      <title>Index</title>
+      <link>https://dilettafalcone.it/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilettafalcone.it/tags/index/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
-    <item>
-      <title>Nutrizione</title>
-      <link>https://www.dilettafalcone.it/tags/nutrizione/</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate><author>ambulatorio@dilettafalcone.it (Diletta Falcone)</author>
-      <guid>https://www.dilettafalcone.it/tags/nutrizione/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Vitamina C</title>
-      <link>https://www.dilettafalcone.it/tags/vitamina-c/</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate><author>ambulatorio@dilettafalcone.it (Diletta Falcone)</author>
-      <guid>https://www.dilettafalcone.it/tags/vitamina-c/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
+    
   </channel>
 </rss>

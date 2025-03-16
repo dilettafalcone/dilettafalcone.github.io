@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Diletta Falcone</title>
-    <link>https://www.dilettafalcone.it/categories/</link>
+    <link>https://dilettafalcone.it/categories/</link>
     <description>Recent content in Categories on Diletta Falcone</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it-IT</language>
-    <managingEditor>ambulatorio@dilettafalcone.it (Diletta Falcone)</managingEditor>
-    <webMaster>ambulatorio@dilettafalcone.it (Diletta Falcone)</webMaster>
-    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.dilettafalcone.it/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Alimentazione</title>
-      <link>https://www.dilettafalcone.it/categories/alimentazione/</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate><author>ambulatorio@dilettafalcone.it (Diletta Falcone)</author>
-      <guid>https://www.dilettafalcone.it/categories/alimentazione/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
+    <language>it</language><atom:link href="https://dilettafalcone.it/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
